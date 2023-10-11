@@ -4,7 +4,7 @@
 
  This is a math-and-coding-heavy course, very rewarding. Every problem set folder contains a writeup for the answers. I strongly recommend this course to everyone who loves math and coding.
 
- ## Project 1
+ ## [Project 1](https://github.com/wangshasha111/methods-in-computational-economics/tree/main/PS1_solving_equations)
  solving linear equations
  
  ## Project 2
