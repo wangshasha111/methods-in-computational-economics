@@ -1,4 +1,4 @@
-# Bepp931_computational_economics
+# Methods in Computational Economics
 
  This folder contains all the solutions to the homework assignments for the course "Computational Economics."
 
